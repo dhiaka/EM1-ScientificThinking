@@ -31,10 +31,10 @@ they are called THEORIES :
 so a THEORY is the hightest level of understanding we have of anything in this world that is a theory , so uf u have an idea about something that is untested and u dont know about it yet , its ur hypothesis its eistein's THEROY of relativity .
 
 
-[previous episode](link)
+[previous episode](https://github.com/dhiaka/em1-ScientificThinking/blob/main/EP%20N%C2%B001%20%22what%20u%20know%20is%20not%20important%20as%20what%20u%20think%22.md)
 
 
-[next episode](link)
+[next episode](https://github.com/dhiaka/em1-ScientificThinking/blob/main/EP%20N%C2%B003%20%22%20the%20scientific%20method%20%22.md)
 
 
 [see all the episodes](https://github.com/dhiaka/EM1-ScientificThinking)
