@@ -18,7 +18,7 @@ the cosmic perspective : COSMIC PERSPECTIVE teaches you that you are special ,  
 
 a cosmic perspective has the power to reset what it is you think is important in life has a power to humble you but in a good way , has the power to have you recongnize that the ego you had carried with you throughout life is injustified in the grandest scheme of things.
 
-<=> THAT IS A COSMIC PERSPECTIVE .
+# <=> THAT IS A COSMIC PERSPECTIVE .
 
 
 search engines on the internet are epitome of confirmation bias , there is no greater force in the universe than an internet search in the world of confirmation bias .
@@ -31,10 +31,9 @@ search engines on the internet are epitome of confirmation bias , there is no gr
 if u only watch TV , search internet and read books that agrees with what you think then you have constructed a box , and each of other items , each of those forces operate on you is a brick in that box you have boxed yourself in YOU ARE IN A BUBBLE 
 
 
-[previous episode](link)
-
-
-[next episode](link)
-
+[previous episode](https://github.com/dhiaka/em1-ScientificThinking/blob/main/EP%20N%C2%B004%20%22%20ASK%20QUESTIONS!%20%20%22.md)
 
 [see all the episodes](https://github.com/dhiaka/EM1-ScientificThinking)
+
+
+# end .
