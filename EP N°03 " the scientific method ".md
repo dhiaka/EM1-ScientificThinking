@@ -30,13 +30,13 @@ there is nothing malcious inthose abd mesasurements , youre at the telescope , u
 
 
 
-[previous episode](link)
+[previous episode](https://github.com/dhiaka/em1-ScientificThinking/blob/main/EP%20N%C2%B002%20%22%20the%20frontier%20of%20SCIENCE%20%22.md)
 
 
-[next episode](link)
+[next episode](https://github.com/dhiaka/em1-ScientificThinking/blob/main/EP%20N%C2%B004%20%22%20ASK%20QUESTIONS!%20%20%22.md)
 
 
 [see all the episodes](https://github.com/dhiaka/EM1-ScientificThinking)
 
 
-#end .
+# end .
