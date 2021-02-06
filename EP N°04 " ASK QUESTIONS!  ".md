@@ -19,13 +19,13 @@ A PRORER SKEPTIC questions what theyre unsure of , but recognizes when valid evi
 Whatever it is u think is true want to be true , find another way to demonstrate that , than by your testimony , its an odd thing , how high eyewitness testimony is in the court of law , because in the court of science , it is the very lowest form of testimony .
 
 
-[previous episode](link)
+[previous episode](https://github.com/dhiaka/em1-ScientificThinking/blob/main/EP%20N%C2%B003%20%22%20the%20scientific%20method%20%22.md)
 
 
-[next episode](link)
+[next episode](https://github.com/dhiaka/em1-ScientificThinking/blob/main/EP%20N%C2%B005%20%22%20beware%20of%20cultural%20bias%20%22.md)
 
 
 [see all the episodes](https://github.com/dhiaka/EM1-ScientificThinking)
 
 
-#end .
+# end .
